@@ -1,0 +1,259 @@
+{
+    "last_opened": "2026-08-06",
+    "history": {
+        "2026-07-30": [
+            {
+                "name": "pending task",
+                "time": "17:23",
+                "notes": "",
+                "reminder": true,
+                "status": "completed"
+            },
+            {
+                "name": "hello\nline2\nline3",
+                "time": "18:29",
+                "notes": "",
+                "reminder": true,
+                "status": "completed"
+            },
+            {
+                "name": "line1",
+                "time": "18:29",
+                "notes": "",
+                "reminder": true,
+                "status": "completed"
+            },
+            {
+                "name": "hijj",
+                "time": "19:38",
+                "notes": "",
+                "reminder": true,
+                "status": "completed"
+            },
+            {
+                "name": "bhn",
+                "time": "19:46",
+                "notes": "",
+                "reminder": true,
+                "status": "completed"
+            },
+            {
+                "name": "fgbhj",
+                "time": "19:46",
+                "notes": "",
+                "reminder": true,
+                "status": "completed"
+            },
+            {
+                "name": "hh",
+                "time": "22:08",
+                "notes": "",
+                "reminder": true,
+                "status": "pending"
+            }
+        ],
+        "2026-07-31": [
+            {
+                "name": "gfd",
+                "time": "22:40",
+                "notes": "",
+                "reminder": true,
+                "status": "completed"
+            }
+        ],
+        "2026-08-01": [
+            {
+                "name": "hi",
+                "time": "23:20",
+                "notes": "",
+                "reminder": true,
+                "status": "pending"
+            }
+        ],
+        "2026-07-02": [
+            {
+                "name": "hi",
+                "time": "22:44",
+                "notes": "",
+                "reminder": true,
+                "status": "pending"
+            },
+            {
+                "name": "no",
+                "time": "22:44",
+                "notes": "",
+                "reminder": true,
+                "status": "pending"
+            },
+            {
+                "name": "uhm",
+                "time": "22:44",
+                "notes": "",
+                "reminder": true,
+                "status": "pending"
+            }
+        ],
+        "2026-08-02": [
+            {
+                "name": "hi",
+                "time": "23:20",
+                "notes": "",
+                "reminder": true,
+                "status": "completed"
+            },
+            {
+                "name": "hi",
+                "time": "23:21",
+                "notes": "",
+                "reminder": true,
+                "status": "completed"
+            },
+            {
+                "name": "snooze",
+                "time": "23:21",
+                "notes": "",
+                "reminder": true,
+                "status": "pending"
+            }
+        ],
+        "2026-08-03": [
+            {
+                "name": "ghjk",
+                "time": "21:27",
+                "notes": "",
+                "reminder": true,
+                "status": "completed"
+            },
+            {
+                "name": "fcvgbhnjm",
+                "time": "21:27",
+                "notes": "",
+                "reminder": true,
+                "status": "pending"
+            },
+            {
+                "name": "jhgf",
+                "time": "21:42",
+                "notes": "",
+                "reminder": true,
+                "status": "pending"
+            },
+            {
+                "name": "jhgf",
+                "time": "21:42",
+                "notes": "",
+                "reminder": true,
+                "status": "pending"
+            },
+            {
+                "name": "mnhgbv",
+                "time": "21:42",
+                "notes": "",
+                "reminder": true,
+                "status": "completed"
+            },
+            {
+                "name": "",
+                "time": "23:30",
+                "notes": "",
+                "reminder": true,
+                "status": "pending"
+            }
+        ],
+        "2026-08-04": [
+            {
+                "name": "jhgf",
+                "time": "14:30",
+                "notes": "",
+                "reminder": true,
+                "status": "completed"
+            },
+            {
+                "name": "edited",
+                "time": "14:30",
+                "notes": "",
+                "reminder": true,
+                "status": "completed"
+            },
+            {
+                "name": "gym",
+                "time": "15:28",
+                "notes": "squads",
+                "reminder": true,
+                "status": "completed"
+            },
+            {
+                "name": "hjnm",
+                "time": "15:30",
+                "notes": "",
+                "reminder": true,
+                "status": "completed"
+            },
+            {
+                "name": "fghj",
+                "time": "15:48",
+                "notes": "",
+                "reminder": true,
+                "status": "completed"
+            },
+            {
+                "name": "",
+                "time": "15:57",
+                "notes": "",
+                "reminder": true,
+                "status": "completed"
+            },
+            {
+                "name": "",
+                "time": "16:00",
+                "notes": "",
+                "reminder": true,
+                "status": "completed"
+            },
+            {
+                "name": "",
+                "time": "16:03",
+                "notes": "",
+                "reminder": true,
+                "status": "completed"
+            },
+            {
+                "name": "",
+                "time": "18:24",
+                "notes": "",
+                "reminder": true,
+                "status": "completed"
+            },
+            {
+                "name": "bn",
+                "time": "22:05",
+                "notes": "",
+                "reminder": true,
+                "status": "completed"
+            }
+        ],
+        "2026-08-05": [
+            {
+                "name": "eat",
+                "time": "13:55",
+                "notes": "",
+                "reminder": true,
+                "status": "pending"
+            },
+            {
+                "name": "smile",
+                "time": "13:55",
+                "notes": "",
+                "reminder": true,
+                "status": "completed"
+            },
+            {
+                "name": "run",
+                "time": "13:55",
+                "notes": "",
+                "reminder": true,
+                "status": "completed"
+            }
+        ]
+    }
+}
