@@ -39,6 +39,8 @@ Built with Python and Kivy, the application is designed to work completely offli
 ---
 
 ##Screenshots
+
+
 <img width="813" height="637" alt="Screenshot 2026-10-11 143059" src="https://github.com/user-attachments/assets/713b6394-1fe0-41d7-bb21-5f941fa0adb9" />
 <img width="807" height="640" alt="Screenshot 2026-10-11 143359" src="https://github.com/user-attachments/assets/8b5def54-98d5-4740-bf1d-edc95c383906" />
 <img width="810" height="633" alt="Screenshot 2026-10-11 143141" src="https://github.com/user-attachments/assets/78d53a45-d295-485e-bc93-e722620788e6" />
